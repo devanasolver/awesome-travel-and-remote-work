@@ -1,0 +1,346 @@
+[
+  {
+    "repo": "browser-use/browser-use",
+    "category": "ai",
+    "description": "Make websites accessible for AI agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "category": "ai",
+    "description": "Framework for building applications with language models.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "modelcontextprotocol/servers",
+    "category": "ai",
+    "description": "Reference collection of Model Context Protocol servers.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "category": "ai",
+    "description": "Self-hosted web interface for local and hosted language models.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "actualbudget/actual",
+    "category": "budget",
+    "description": "Local-first personal finance app with envelope budgeting.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "firefly-iii/firefly-iii",
+    "category": "budget",
+    "description": "Free and open-source personal finance manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "spliit-app/spliit",
+    "category": "budget",
+    "description": "Free and open-source way to split expenses with friends.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "duffelhq/duffel-api-javascript",
+    "category": "flights",
+    "description": "Official JavaScript client for the Duffel flights API. The service is paid.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "flightaware/dump1090",
+    "category": "flights",
+    "description": "ADS-B Ground station software for tracking aircraft.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "sdr-enthusiasts/docker-adsb-ultrafeeder",
+    "category": "flights",
+    "description": "Docker container for feeding and viewing ADS-B data.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "wiedehopf/readsb",
+    "category": "flights",
+    "description": "ADS-B decoder for tracking aircraft.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "wiedehopf/tar1090",
+    "category": "flights",
+    "description": "Web interface for ADS-B aircraft tracking.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-29"
+  },
+  {
+    "repo": "ente/ente",
+    "category": "journal",
+    "description": "Fully open-source, end-to-end encrypted photo storage.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Freika/dawarich",
+    "category": "journal",
+    "description": "Self-hostable alternative to Google Timeline.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "immich-app/immich",
+    "category": "journal",
+    "description": "High-performance self-hosted photo and video backup.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "owntracks/recorder",
+    "category": "journal",
+    "description": "Store and access location data published by OwnTracks apps.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-08"
+  },
+  {
+    "repo": "photoprism/photoprism",
+    "category": "journal",
+    "description": "AI-powered photos app for the decentralized web.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "tkrajina/gpxpy",
+    "category": "journal",
+    "description": "GPX file parser and manipulation library for Python.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-26"
+  },
+  {
+    "repo": "ankitects/anki",
+    "category": "lang",
+    "description": "Powerful, intelligent flashcards.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "argosopentech/argos-translate",
+    "category": "lang",
+    "description": "Open-source offline translation library written in Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-08"
+  },
+  {
+    "repo": "LibreTranslate/LibreTranslate",
+    "category": "lang",
+    "description": "Free and open-source machine translation API, self-hosted.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "mozilla/translations",
+    "category": "lang",
+    "description": "Firefox Translations, private on-device translation.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-25"
+  },
+  {
+    "repo": "openai/whisper",
+    "category": "lang",
+    "description": "General-purpose speech recognition model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-31"
+  },
+  {
+    "repo": "google/transit",
+    "category": "maps",
+    "description": "Official GTFS and GTFS Realtime specifications.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-16"
+  },
+  {
+    "repo": "graphhopper/graphhopper",
+    "category": "maps",
+    "description": "Fast and memory-efficient routing engine.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Leaflet/Leaflet",
+    "category": "maps",
+    "description": "JavaScript library for interactive maps.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "maplibre/maplibre-gl-js",
+    "category": "maps",
+    "description": "Open-source library for interactive vector maps.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openstreetmap/openstreetmap-website",
+    "category": "maps",
+    "description": "The Rails app behind openstreetmap.org.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "opentripplanner/OpenTripPlanner",
+    "category": "maps",
+    "description": "Multi-modal trip planner using OpenStreetMap and transit data.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "organicmaps/organicmaps",
+    "category": "maps",
+    "description": "Privacy-focused offline maps and navigation based on OpenStreetMap.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "osmandapp/OsmAnd",
+    "category": "maps",
+    "description": "Offline maps and navigation for Android and iOS.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Project-OSRM/osrm-backend",
+    "category": "maps",
+    "description": "Open-source routing engine for road networks.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "valhalla/valhalla",
+    "category": "maps",
+    "description": "Open-source routing engine with dynamic costing.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "seanmorley15/AdventureLog",
+    "category": "plan",
+    "description": "Self-hosted travel tracker and planner.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "calcom/cal.diy",
+    "category": "remote",
+    "description": "Open-source scheduling infrastructure.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-26"
+  },
+  {
+    "repo": "element-hq/element-web",
+    "category": "remote",
+    "description": "Matrix web client.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jitsi/jitsi-meet",
+    "category": "remote",
+    "description": "Secure, simple and scalable video conferences.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "makeplane/plane",
+    "category": "remote",
+    "description": "Open-source project management tool.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mattermost/mattermost",
+    "category": "remote",
+    "description": "Open-source platform for team collaboration.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "moment/luxon",
+    "category": "remote",
+    "description": "Library for working with dates and times in JavaScript.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-09"
+  },
+  {
+    "repo": "nextcloud/server",
+    "category": "remote",
+    "description": "Self-hosted cloud for files, calendar, contacts and docs.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "RocketChat/Rocket.Chat",
+    "category": "remote",
+    "description": "Open-source team chat.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "zulip/zulip",
+    "category": "remote",
+    "description": "Open-source team chat with topic threading.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  }
+]

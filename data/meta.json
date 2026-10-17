@@ -1,0 +1,54 @@
+{
+ "categories": [
+  {
+   "id": "plan",
+   "title": "Trip planning and itineraries",
+   "anchor": "trip-planning-and-itineraries",
+   "blurb": "Plan days and share them."
+  },
+  {
+   "id": "maps",
+   "title": "Maps and navigation",
+   "anchor": "maps-and-navigation",
+   "blurb": "Offline maps and routing."
+  },
+  {
+   "id": "flights",
+   "title": "Flights and booking data",
+   "anchor": "flights-and-booking-data",
+   "blurb": "Search and track fares. Check API terms."
+  },
+  {
+   "id": "budget",
+   "title": "Budget and expenses",
+   "anchor": "budget-and-expenses",
+   "blurb": "Split costs with friends."
+  },
+  {
+   "id": "journal",
+   "title": "Photos, journals and tracks",
+   "anchor": "photos-journals-and-tracks",
+   "blurb": "Remember the trip."
+  },
+  {
+   "id": "ai",
+   "title": "AI travel assistants",
+   "anchor": "ai-travel-assistants",
+   "blurb": "Check prices, hours and rules from official sources."
+  },
+  {
+   "id": "remote",
+   "title": "Remote work and teams",
+   "anchor": "remote-work-and-teams",
+   "blurb": "Meetings, time zones and async work."
+  },
+  {
+   "id": "lang",
+   "title": "Language and local help",
+   "anchor": "language-and-local-help",
+   "blurb": "Translate and learn on the road."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Travel and Remote Work Tools</h1>\n\n<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Awesome Travel and Remote Work Tools\" width=\"100%\"></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-travel-and-remote-work/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-travel-and-remote-work\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-travel-and-remote-work/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-travel-and-remote-work?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://buymeacoffee.com/isaac49\"><img src=\"https://img.shields.io/badge/Buy%20me%20a%20coffee-isaac49-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black\" alt=\"Buy me a coffee\"></a>\n</p>\n\n> Open-source tools for trip planning, maps, itineraries, expense splitting, offline use and remote teams. Every entry shows its license.\n\n**Rules of this list:** every repo exists, is public, is not archived, states a license and has had a commit in the last year. One plain sentence each. Star counts and claims are the authors' own, we did not test every tool. Checked 2026-10-18. See [CONTRIBUTING.md](CONTRIBUTING.md).",
+ "footer": "## How to choose\n\n- **Check visa and entry rules** on official government sites.\n- **Download maps and tickets for offline use.**\n- **Prices and hours change.** Confirm before you go.\n- **Check the license.**\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words, real sources only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING.\n\n## Sponsor me\n\nIf this list is useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
+}

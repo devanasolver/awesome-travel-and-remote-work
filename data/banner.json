@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "TRIP",
+  "ITINERARY",
+  "MAP",
+  "FLIGHT",
+  "HOTEL",
+  "VISA",
+  "PACKING",
+  "OFFLINE",
+  "ROUTE",
+  "BUDGET",
+  "TIMEZONE",
+  "SPLIT",
+  "GPX",
+  "STAY",
+  "WIFI",
+  "NOMAD"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Travel and",
+  "Remote Work Tools"
+ ],
+ "title_size": 68,
+ "sub1": "TRIPS  |  MAPS  |  ITINERARIES",
+ "sub2": "BUDGETS  |  OFFLINE  |  REMOTE WORK",
+ "foot": "Open-source travel and remote work software, each checked for license and activity"
+}
